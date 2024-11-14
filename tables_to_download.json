@@ -1,5 +1,5 @@
 { 
     
-        "table_names": ["air_quality_no2"]
+        "table_names": ["newairqualityparquet"]
     
 }
